@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\harsh\Downloads\FIre\src\openglFunctions.h(281,48): warning C4312: 'type cast': conversion from 'unsigned int' to 'const void *' of greater size
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\harsh\Downloads\FIre\src\openglFunctions.h(282,48): warning C4312: 'type cast': conversion from 'unsigned int' to 'const void *' of greater size
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\harsh\Downloads\FIre\src\main.cpp(147,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Fire.vcxproj -> C:\Users\harsh\Downloads\FIre\bin\x64\Debug\opengl.exe
