@@ -43,24 +43,7 @@ git clone https://github.com/harshx6/Fire-Particle-Simulator.git
 
 ## 📸 Screenshots
 
-You can find simulation previews in the [`screenshots/`](./screenshots/) folder.
-
-```markdown
-![Demo Preview](./screenshots/fire_simulator.gif)
-```
-
----
-
-## 📁 Project Structure
-
-```
-Fire-Particle-Simulator/
-├── src/                # Source code (.cpp/.h)
-├── shaders/            # Vertex/fragment shaders (if used)
-├── screenshots/        # GIFs or PNGs of simulation
-├── README.md
-└── .gitignore
-```
+You can find simulation previews in the project report.
 
 ---
 
